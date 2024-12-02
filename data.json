@@ -1,0 +1,5 @@
+[
+    { "id": 1, "title": "Pasta", "likes": 0, "comments": [] },
+    { "id": 2, "title": "Pizza", "likes": 0, "comments": [] },
+    { "id": 3, "title": "Burger", "likes": 0, "comments": [] }
+]
